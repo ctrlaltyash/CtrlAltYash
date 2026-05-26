@@ -18,10 +18,10 @@ The results of these are <b> scattered </b> somewhere below.
 
 | Achievement / Competition                       | Category                | Level Reached     | Outcome / Status                                                             |
 | ----------------------------------------------- | ----------------------- | ----------------- | ---------------------------------------------------------------------------- |
-| Bharat Innovation Challenge 2025 by LPU         | Innovation              | Stage 2 Finalist  | Qualified for Stage 2 and competed among the top 50 teams from across India. |
-| Big Bang 2026                                   | Innovation              | Hall of Fame      | Selected among the Top 20 Hall of Fame Teams out of 162 finalists.           |
-| MethdAI Hackathon 2025                          | Hackathon               | Final Round       | Achieved 4th place overall.                                                  |
-| IBM Sustainability League Innovation Challenge  | Innovation              | National Finalist | Ranked among the Top 27 teams nationwide.                                    |
+| Bharat Innovation Challenge 2025 by LPU         | Innovation              | Stage 2 Finalist  | Qualified for Stage 2 and competed among the top 50 teams from across India from 2000 |
+| Big Bang 2026                                   | Innovation              | Hall of Fame      | Selected among the Top 20 Hall of Fame Teams out of 1600           |
+| MethdAI Hackathon 2025                          | Hackathon               | Final Round       | Achieved 4th place overall.                                                |
+| IBM Sustainability League Innovation Challenge  | Innovation              | National Finalist | Ranked among the Top 27 teams nationwide from 200 selected schools                            |
 | Limitless World Summit — University of Delaware | Leadership & Innovation | Special Invitee   | Invited to participate in the international summit.                          |
 | First Global Challenge, South Korea             | Robotics & STEM         | Team India        | Will be Represent India at the international robotics competition.                 |
 
